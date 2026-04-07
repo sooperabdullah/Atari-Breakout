@@ -1,8 +1,8 @@
-# Brick Breaker – Classic Arcade Game in Assembly Language (NASM)
+# Atari Breakout – Classic Arcade Game in Assembly Language (NASM)
 
 ## Project Overview
 
-*Brick Breaker* is a fully functional, classic arcade-style brick-breaking game written entirely in *16-bit x86 Assembly Language* using *NASM* for *DOS* (runs perfectly on DOSBox or real vintage hardware).
+*Atari Breakout* is a fully functional, classic arcade-style brick-breaking game written entirely in *16-bit x86 Assembly Language* using *NASM* for *DOS* (runs perfectly on DOSBox).
 
 The game features:
 - Smooth ball physics with 8-directional movement (45°, 90°, 135°, etc.)

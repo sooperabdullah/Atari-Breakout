@@ -1,4 +1,4 @@
-# Atari Breakout – Classic Arcade Game in Assembly Language (NASM)
+# Atari Breakout – Arcade Game in Assembly Language (NASM)
 
 ## Project Overview
 
